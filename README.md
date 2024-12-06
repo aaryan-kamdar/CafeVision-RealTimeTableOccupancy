@@ -70,8 +70,6 @@ CafeVision/
 ├── requirements.txt       # Python dependencies
 ├── src/
 │   ├── DetectionYOLOVv11.py  # Main detection script
-├── models/
-│   ├── yolo11x.pt          # YOLOv11 pretrained weights
 ├── datasets/
 │   ├── videos/
 │       ├── RestaurantTest.mp4
