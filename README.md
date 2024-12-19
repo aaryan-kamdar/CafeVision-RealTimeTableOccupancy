@@ -96,5 +96,3 @@ CafeVision/
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to adapt this for your project and repository! Let me know if you need further refinements.
