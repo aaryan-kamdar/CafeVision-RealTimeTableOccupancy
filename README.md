@@ -1,5 +1,3 @@
-Here’s a detailed description of how to install requirements and use the project, formatted for inclusion in your **README.md** file:
-
 ---
 
 # CaféVision: Real-Time Table Occupancy Detection
